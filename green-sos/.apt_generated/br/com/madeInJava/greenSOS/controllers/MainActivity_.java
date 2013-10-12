@@ -3,7 +3,7 @@
 //
 
 
-package br.com.madeInJava.greenSOS;
+package br.com.madeInJava.greenSOS.controllers;
 
 import android.app.Activity;
 import android.content.Context;
